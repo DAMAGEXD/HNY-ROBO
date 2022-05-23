@@ -9,7 +9,7 @@ from FallenRobot import pbot as client
 
 ANON = "https://telegra.ph/file/0aaf54a1ac3dda5cd7b3c.jpg"
 
-@client.on_message(filters.command(["hnykarepo", "hnykasource"]))
+@client.on_message(filters.command(["botkarepodedo", "maichutiyahu"]))
 async def repo(client, message):
     await message.reply_photo(
         photo=ANON,
