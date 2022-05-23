@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://github.com/AnonymousR1025/FallenRobot/blob/master/FallenRobot/resources/fallen.jpg](https://telegra.ph/file/0aaf54a1ac3dda5cd7b3c.jpg)">
+  <img src="[https://telegra.ph/file/0aaf54a1ac3dda5cd7b3c.jpg]">
 </p>
 
 ## ㅤㅤㅤ 🖤ʜɴʏ ʀᴏʙᴏ🖤
